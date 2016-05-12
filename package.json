@@ -24,15 +24,15 @@
     "react-component"
   ],
   "peerDependencies": {
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7"
+    "react": "^0.14.8||^15.0.2",
+    "react-dom": "^0.14.8||^15.0.2"
   },
   "devDependencies": {
     "rackt-cli": "^0.5.4",
-    "react": "^0.14.7",
-    "react-dom": "^0.14.7",
+    "react": "^0.14.8||^15.0.2",
+    "react-dom": "^0.14.8||^15.0.2",
     "react-modal": "rackt/react-modal",
-    "react-addons-test-utils": "^0.14.7"
+    "react-addons-test-utils": "^0.14.8||^15.0.2"
   },
   "dependencies": {
     "classnames": "^2.2",
